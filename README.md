@@ -1,8 +1,7 @@
 # Doctor appointment web app built with Laravel
 
-![Home Page](https://github.com/khoadodk/appointment-laravel/blob/master/homepage.PNG)
 
-# http://appointment-laravel.herokuapp.com/](https://github.com/Yared11000010/doctor-appointments.git)
+# (https://github.com/Yared11000010/doctor-appointments.git)
 
 # Credentials to test this app
 
